@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "@altv/client": "^0.0.34",
+    "@altv/server": "^0.0.40",
+    "natives": "^1.1.6"
+  },
+  "name": "crimegtajs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
